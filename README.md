@@ -1,0 +1,3 @@
+# ROAST-CURVE-PREDICTION
+Project devoted to creating a Neural Network model for inline time series prediction of coffee roasting curve. It's a first step for creating automatic coffee roasting tool, that simulates a human operator instead of using primitive PID control that is just trying to minimize the SET VALUE difference.
+If I can get a proper prediction of roasting curve 1 minute ahead, then it will be possible to build a model that takes that prediction when controlling the burner output in order to achieve perfect roast, according earlier specified parameters such as DE,FC,DROP times, DROP temperature and developement time
